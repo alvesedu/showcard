@@ -7,19 +7,19 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Card style={{padding: 10, margin: 10}}>
-          <Text>Plantão - Unidade</Text>
+          <Text>Plantão - Unidade 1 </Text>
           <Text>Data</Text>
           <Text>Unidade</Text>
         </Card>
 
         <Card style={{padding: 10, margin: 10}}>
-          <Text>Plantão - Unidade</Text>
+          <Text>Plantão - Unidade 2 </Text>
           <Text>Data</Text>
           <Text>Unidade</Text>
         </Card>
 
         <Card style={{padding: 10, margin: 10}}>
-          <Text>Plantão - Unidade</Text>
+          <Text>Plantão - Unidade 3</Text>
           <Text>Data</Text>
           <Text>Unidade</Text>
         </Card>
